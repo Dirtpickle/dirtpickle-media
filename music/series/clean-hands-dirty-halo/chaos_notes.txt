@@ -1,0 +1,44 @@
+CLEAN HANDS, DIRTY HALO — CHAOS VERSION
+
+Length: about 155.7 seconds (2:35)
+
+This is a chaos mutation of the original song created in this chat.
+
+What changed:
+- meter whiplash: 3/4, 4/4, 5/8, 7/8, 11/8, 5/4-feeling subdivisions
+- aggressive tempo jumps instead of smooth ramps
+- stop/start guitars with intentionally displaced accents
+- prepared-piano style fragments and chromatic clusters
+- brass and sax intrusions at "wrong" moments
+- childlike toy-bell material against ugly harmony
+- abrupt dead-stop section before the middle fracture
+- dense mechanical pulse during the 11/8 spiral
+- final collision layers piano, organ, guitars, brass, strings, pulse, and drums
+- micro-dropouts inside the final collision to make the mix feel unstable
+
+FORM
+False Waltz
+Lurching Verse
+Knife-Step
+Broken Chorus
+Dead Stop
+Carnival Fracture
+Eleven-Eight Spiral
+Funhouse Waltz
+Impact Chamber
+Chaos Collision
+Implosion
+Ash Coda
+
+MIDI TRACKS
+Prepared Piano
+Organ
+Bass
+Guitar L
+Guitar R
+Brass
+Tenor Sax
+Strings
+Toy Bell
+Noise Pulse
+Drums
