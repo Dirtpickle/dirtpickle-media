@@ -1,0 +1,24 @@
+CATHEDRAL OF STATIC — COMPLETE ALBUM v2
+
+TRACK ORDER:
+01_Vigil — 2.17 min
+02_Teeth_in_the_Hymnal — 3.02 min
+03_The_Water — 2.08 min
+04_The_Trial — 2.74 min
+05_Mercy_Has_No_Name — 2.92 min
+06_The_Velvet_Gallows — 2.58 min
+07_Whimsy_and_Despair — 3.42 min
+08_After_the_Applause — 3.92 min
+09_No_Gods_Left — 1.85 min
+10_Cathedral_of_Static — 3.62 min
+
+Approximate runtime: 28.32 min
+
+CHANGES FROM THE PREVIOUS COMPLETE DRAFT:
+- Paper Halo has been removed.
+- The Velvet Gallows is now Track 06.
+- The Velvet Gallows heavy A and Bb power chords were moved into the actual low Drop-A register.
+- Its electric bass was moved underneath the guitars into a proper low register.
+- D, E and F guitar power chords were left in their existing playable register rather than being incorrectly shifted below the low A string.
+- The Water remains byte-for-byte unchanged.
+- All other album tracks are unchanged from the previous complete listening draft.
