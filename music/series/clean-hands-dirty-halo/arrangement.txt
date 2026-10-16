@@ -1,0 +1,35 @@
+CLEAN HANDS, DIRTY HALO — original theatrical avant-metal sketch
+
+Length: about 3:27.
+
+This is an original piece. It does not reproduce a Dog Fashion Disco composition.
+Instead, it uses broad ingredients associated with theatrical/avant-metal:
+cabaret piano, organ, brass/reed colors, abrupt stylistic cuts, odd meters,
+chromatic harmony, heavy stop/start guitar, mock-grandiose strings and a dark theatrical arc.
+
+FORM
+Crooked Overture — 3/4, 88 BPM
+Verse A — 4/4, 110 BPM
+Seven-Eight Rise — 7/8, 126 BPM
+Big Chorus — 4/4, 132 BPM
+Cabaret Interlude — 3/4, 96 BPM
+Verse B — 4/4, 118 BPM
+Manic Turn — 7/8, 140 BPM
+Five-Four Drop — 5/4, 76 BPM
+Final Collision — 4/4, 144 BPM
+Broken Coda — 3/4, 72 BPM
+
+MIDI TRACKS
+Piano
+Organ
+Bass
+Guitar
+Brass
+Tenor Sax
+Strings
+Bell
+Drums
+
+HARMONIC CENTER
+D minor, with Eb/b2 color, diminished harmony, altered dominants,
+chromatic side-steps and deliberately theatrical dominant tension.
