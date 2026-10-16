@@ -1,0 +1,43 @@
+THE HOUSE BOWS - second Frank-N-Furter-centered composition test
+
+This one is built around one recurring two-bar strut so the song has a stronger identity.
+The vocal guide is deliberately actor-singer first: short declarations, silence, response, escalation.
+
+KEY CENTER
+E minor / E Phrygian color. F natural and Bb are used as theatrical poison notes.
+
+TEMPO
+112 BPM through the theatrical material
+118 BPM when the full heavy band arrives at bar 73
+84 BPM confession/drop at bar 93
+118 BPM final return at bar 101
+
+SCENE MAP
+1-8     The Door Opens - instrumental strut
+9-24    Verse I - Invitation
+25-32   Pre - Come Closer / stop-time
+33-40   Chorus - Declaration
+41-48   Turnaround - The Room Answers
+49-64   Verse II - Predator Smile
+65-72   Theatrical Break - puppet groove
+73-80   Transformation - heavy band finally enters
+81-92   Final Chorus I - Command
+93-100  Confession - everything drops
+101-108 Final Chorus II - Crown / last word
+109     Dead-stop ending
+
+DESIGN RULES
+- The main riff is intentionally predictable and playable.
+- The vocal guide carries fewer notes than the accompaniment.
+- Guitar is mostly withheld until the transformation, so heaviness changes the scene.
+- Brass acts like an audience/ensemble answering the lead character.
+- The final vocal language is a distilled version of the earlier melody rather than a new melody.
+
+TRACKS
+Vocal Guide - Actor / Baritone
+Bass - The Strut
+Piano - Cabaret Teeth
+Organ - Velvet Shadow
+Brass / Ensemble - The Room Answers
+Guitar L / R - When the Mask Comes Off
+Drums - Glam / Industrial Stage
