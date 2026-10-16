@@ -1,0 +1,49 @@
+THE CURTAIN BITES
+Frank-N-Furter performance model / escalation study
+Original composition - not a transcription or imitation of "Sweet Transvestite"
+
+CORE RULE
+This version is built so each major section makes the previous one feel smaller.
+Escalation is created by tempo, subdivision, phrase density, harmonic pressure,
+drum behavior, guitar role, and vocal urgency - not merely by adding instruments.
+
+FORM / TEMPO
+Bars  1-8   THE DOOR OPENS ............ 86 BPM
+Bars  9-20  THE STRUT .................. 94 BPM
+Bars 21-32  THE ROOM ANSWERS .......... 104 -> 112 BPM
+Bars 33-44  TEETH BEHIND THE SMILE .... 116 -> 124 BPM
+Bars 45-56  NO MORE DANCING ........... 128 -> 136 BPM
+Bars 57-64  FALSE COLLAPSE ............. 76 BPM
+Bars 65-80  THE CHASE .................. 138 -> 146 BPM
+Bars 81-96  CROWN OF NOISE ............. 148 -> 156 BPM
+
+PERFORMANCE IDEA
+- Early vocal guide: sparse, declarative, almost spoken.
+- Middle: phrases arrive more often and rests shrink.
+- "No More Dancing": vocal rhythm compresses and the band starts chasing it.
+- False Collapse: exposed long notes, huge space, half-time drums.
+- The Chase: rapid call/response; no return to the original comfort.
+- Crown of Noise: highest density and highest register of the song.
+
+ARRANGEMENT RULES
+- Guitars are absent for the first third.
+- Their first job is punctuation, not riffing.
+- Chugs begin only once the scene turns openly hostile.
+- The false collapse removes momentum on purpose.
+- After the collapse, piano, bass, drums, guitar and vocal all change rhythmic language.
+- Final section is not "same chorus louder"; it is a different machine built from the same motif.
+
+TRACKS
+1. Conductor / markers / tempo
+2. Vocal Guide - Actor Singer
+3. Cabaret Piano
+4. Bass - Escalation Engine
+5. Heavy Guitar L
+6. Heavy Guitar R
+7. Organ - Rot
+8. Brass - Audience / Threat
+9. Drums
+
+The vocal track is a guide only. Mute it and perform freely; it is intentionally
+simple enough to leave room for character, diction, held notes, growls, laughs,
+spoken attacks, and theatrical timing.
