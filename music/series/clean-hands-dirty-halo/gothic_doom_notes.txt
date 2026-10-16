@@ -1,0 +1,39 @@
+CLEAN HANDS, DIRTY HALO — GOTHIC DOOM VERSION
+
+Length: about 5:08
+
+This is an original gothic-doom/dark-romantic reworking of the song.
+It does not reproduce a specific Type O Negative composition.
+
+Core changes:
+- much slower tempo and heavier low-end
+- B minor center with C-natural / b2 tension
+- sustained fuzz guitars instead of stop/start chaos
+- prominent low bass
+- church organ and choir pads
+- chorused clean-guitar figures in the verses
+- narrow, low vocal-guide register with a wider chorus lift
+- brief faster section as pressure release
+- long funeral bridge and decaying ending
+
+FORM
+Black Intro
+Verse I
+Pre-Chorus
+Cathedral Chorus
+Funeral Bridge
+Fast Release
+Verse II
+Final Chorus
+Dissolve
+
+MIDI TRACKS
+Low Piano
+Church Organ
+Sub Bass
+Fuzz Guitar L
+Fuzz Guitar R
+Clean Guitar
+Choir Pad
+Lead Guide
+Drums
