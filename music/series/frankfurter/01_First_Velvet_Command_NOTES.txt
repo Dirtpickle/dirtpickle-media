@@ -1,0 +1,29 @@
+VELVET COMMAND - first Frank-N-Furter-centered writing test
+
+Goal: original song built around theatrical swagger, not a copy of "Sweet Transvestite."
+Tempo map: 116 BPM -> 122 at bar 65 -> 92 at bar 89 -> 122 at bar 97.
+Key center: A minor with Bb / Phrygian color; cabaret bridge shifts through C minor.
+Approx length: 3:30.
+
+TRACKS
+- Vocal Guide - intentionally sparse, baritone-friendly actor-singer melody
+- Piano - cabaret stabs
+- Bass - sleazy pulse becoming heavy eighths
+- Guitar L/R - held back until dramatic payoff
+- Organ - gothic bed
+- Brass - theatrical punctuation
+- Drums - rock/cabaret to heavy
+
+SECTIONS
+1-8     The Entrance
+9-24    Verse 1: Charm
+25-32   Pre: The Grin
+33-40   Chorus: Declaration
+41-56   Verse 2: Threat
+57-64   Cabaret Bridge: Smile / Knife
+65-72   Heavy Build: Mask Off
+73-88   Final Chorus: Command the Room
+89-96   Breakdown: Confession
+97-104  Outro: Last Word
+
+The lead vocal was kept simple on purpose. The intended performance arc is charm -> arrogance -> threat -> command.
