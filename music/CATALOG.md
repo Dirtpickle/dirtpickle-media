@@ -39,6 +39,18 @@ Recovered Library material includes:
 
 ## Song-development families
 
+### The Waters
+Canonical vocal reference: `the waters v3.mp3` in the ChatGPT Music Creation Library. This is the completed song/version the user refers to as **The Waters version 3** and should be treated as a primary reference for the user's natural vocal phrasing and melodic style.
+
+Related recovered material:
+- `03_The_Water_REINTERPRETED.mid`
+- `The_Water_2_Bar_Intro.mid`
+- `The_Water_Deathcore_Drums_v2.zip`
+- `The_Water_NEW_Intro_Package.zip`
+- `The_Water_Heavy_Ending_Groove_Example_v1.zip`
+
+See `songs/the-waters/README.md` for exact Library metadata and archive notes.
+
 ### The Fall
 Recovered MIDI generations:
 - `the_fall_v6_hostile_142bpm.mid`
