@@ -1,0 +1,30 @@
+THE FALL - V7 REFERENCE-LOCKED
+Tempo: 158 BPM
+Meter: 4/4
+Tuning reference: A-E-A-D-F#-B
+Approx length: 3:14
+
+WHAT IS DIFFERENT THIS TIME
+- The clean recording was analyzed for onset spacing instead of guessing the tempo.
+- Repeated strong attacks land about 0.19 sec apart = eighth notes at ~158 BPM.
+- The 12-note reference riff is therefore a 6-beat phrase, NOT a 2-bar phrase.
+- Two repetitions = 12 beats = 3 bars, which preserves the bar-crossing lurch.
+- New verse/chorus/bridge/breakdown material inherits the same forward pulse.
+
+REFERENCE RIFF
+Frets: 7 5 0 8 7 5 7 5 4 5 4 0
+Rhythm: twelve straight eighth notes (6 beats total)
+
+STRUCTURE
+   0.0s  INTRO                         8 bars
+  12.2s  VERSE 1                      16 bars
+  36.5s  PRE 1 - REFERENCE RIFF        6 bars
+  45.6s  CHORUS 1                     16 bars
+  69.9s  POST - UPPER/PEDAL            4 bars
+  75.9s  VERSE 2                      16 bars
+ 100.3s  PRE 2 - REFERENCE RIFF        6 bars
+ 109.4s  CHORUS 2                     16 bars
+ 133.7s  BRIDGE                        8 bars
+ 145.8s  BREAKDOWN                     8 bars
+ 158.0s  FINAL CHORUS                 16 bars
+ 182.3s  OUTRO - REFERENCE RIFF        8 bars
