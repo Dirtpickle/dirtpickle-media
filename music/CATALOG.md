@@ -75,6 +75,26 @@ Recovered sequence includes:
 3. The Curtain Bites
 with notes for each major pass.
 
+### Generated originals — 2026-10-16
+The complete writing-session archive is stored at `songs/generated-2026-10-16/New_Original_Songs_2026-10-16.zip`.
+
+It contains:
+- `Phrygian_Loop_Guitar_Prototype_v1.mid`
+- `Phrygian_Loop_Guitar_Prototype_v2_INTENSE.mid`
+- `Smoke_In_The_Teeth.mid`
+- `Paper_Eyes.mid`
+- `Nothing_Comes_Back.mid`
+- `The_Door_Is_Still_Open.mid`
+- `Dead_Letter_Office.mid`
+- `Ash_Mouth_v1.mid`
+- `Dead_Disco_Halo_v1.mid`
+- `Static_Parade_v1.mid`
+- `Black_Glass_Procession_v1.mid`
+
+The archive also includes the instrumental `Paging Mr. Peterson` MIDI study as reference material. `Phrygian_Loop_Guitar_Prototype_v1.mid` is additionally stored individually under `songs/generated-2026-10-16/current-direction/` because it became the clearest successful direction for playable heavy guitar.
+
+Some pieces in this archive were exploratory drafts the user later rejected. They are preserved for history and comparison and should not automatically be treated as approved album material.
+
 ## Riffs, motifs and experiments
 
 Recovered Library material includes:
